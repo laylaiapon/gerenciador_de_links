@@ -5,6 +5,9 @@
 ## 📌Por que implementar o gerenciamento de redes sociais? 
 * As redes sociais conectam usuários de todo o mundo, são canais muito importantes para a entrega de conteúdos. Com isso, desenvolvi o gerenciamento de redes para que se torne mais fácil de acessá-las.
 
+## 📌 Principais aprendizados.
+* Enfrentei um desafio ao precisar usar a parte responsiva em meu código, consegui resolver com a ajuda da biblioteca, que me deu instruções de como implementar no meu CSS. 
+
 ## 📌 Tecnologias Utilizadas.
 ![Captura de tela 2025-06-22 121301](https://github.com/user-attachments/assets/3df4d703-e638-4171-8b17-8b29f0ac5535)
 * utilizado biblioteca para ajudar na estilização do css.
