@@ -1,6 +1,6 @@
 ## 📌 Gerenciador de Links.
 *  Nome do Projeto- gerenciamento de redes sociais.
-*  Descrição- projeto desenvolvido para reunir todas as suas redes sociais em apenas um lugar.
+*  Descrição do Projeto- desenvolvido para reunir todas as suas redes sociais em apenas um lugar.
 ## 📌 Tecnologias Utilizadas.
 ![Captura de tela 2025-06-22 121301](https://github.com/user-attachments/assets/3df4d703-e638-4171-8b17-8b29f0ac5535)
 * utilizado biblioteca para ajudar na estilização do css.
