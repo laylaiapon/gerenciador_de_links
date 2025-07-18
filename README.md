@@ -10,6 +10,8 @@
 
 ## 📌 Tecnologias Utilizadas.
 ![Captura de tela 2025-06-22 121301](https://github.com/user-attachments/assets/3df4d703-e638-4171-8b17-8b29f0ac5535)
+<img width="48" height="48" alt="html" src="https://github.com/user-attachments/assets/c7484682-321f-46aa-828e-ab4b3c2d67fb" />
+
 * Utilizado biblioteca para ajudar na estilização do css.
 
 ## 📌 Captura da tela de projeto.
