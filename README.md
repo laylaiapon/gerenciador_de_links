@@ -9,9 +9,8 @@
 * Enfrentei um desafio ao precisar usar a parte responsiva em meu código, consegui resolver com a ajuda da biblioteca, que me deu instruções de como implementar no meu CSS. 
 
 ## 📌 Tecnologias Utilizadas.
-<img width="96" height="96" alt="icons8-css-logo-96" src="https://github.com/user-attachments/assets/571aa044-bd81-440e-befb-0f1053780f60" />
-<img width="48" height="48" alt="html" src="https://github.com/user-attachments/assets/c7484682-321f-46aa-828e-ab4b3c2d67fb" />
-
+<img width="60" height="60" alt="icons8-css-logo-96" src="https://github.com/user-attachments/assets/571aa044-bd81-440e-befb-0f1053780f60" />
+<img width="60" height="60" alt="icons8-html-5-96" src="https://github.com/user-attachments/assets/97f4e09f-6ef9-43ea-8ef2-7afb4ad53d87" />
 * Utilizado biblioteca para ajudar na estilização do css.
 
 ## 📌 Captura da tela de projeto.
