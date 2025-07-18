@@ -11,6 +11,7 @@
 ## 📌 Tecnologias Utilizadas.
 <img width="60" height="60" alt="icons8-css-logo-96" src="https://github.com/user-attachments/assets/571aa044-bd81-440e-befb-0f1053780f60" />
 <img width="60" height="60" alt="icons8-html-5-96" src="https://github.com/user-attachments/assets/97f4e09f-6ef9-43ea-8ef2-7afb4ad53d87" />
+
 * Utilizado biblioteca para ajudar na estilização do css.
 
 ## 📌 Captura da tela de projeto.
